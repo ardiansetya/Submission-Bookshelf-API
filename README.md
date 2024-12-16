@@ -173,11 +173,6 @@ Bookshelf API adalah proyek backend sederhana berbasis Node.js menggunakan frame
 
 ---
 
-## ✍️ Kontributor
-
-- Nama Anda [![GitHub](https://img.shields.io/badge/GitHub-username-blue?logo=github)](https://github.com/username)
-
----
 
 ## 📜 Lisensi
 
